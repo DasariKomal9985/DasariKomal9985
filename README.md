@@ -23,7 +23,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <tr>
     <td><b>Programming Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Linux%20System%20Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
