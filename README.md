@@ -11,62 +11,106 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-# 🛠️ Skills
+# 📦 Technical Skill Matrix
 
-## 🔹 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-239120?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux%20C%20Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Assembly-A8B400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?style=for-the-badge"/>
-</p>
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Data</th>
+  </tr>
 
-## 🔹 Embedded Systems
-- Bare-metal programming  
-- Register-level firmware  
-- Flash, NVIC, SysTick, RCC  
-- Timers, ADC, DAC, DMA  
-- Hardware bring-up  
-- Memory map analysis  
+  <!-- Programming Languages -->
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Linux%20System%20Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    </td>
+  </tr>
 
-## 🔹 Device Driver Development
-- UART Driver  
-- SPI Driver  
-- I2C Driver  
-- CAN Driver  
-- Interrupt-driven + DMA-based drivers  
-- Sensor drivers from datasheets  
+  <!-- Protocols -->
+  <tr>
+    <td><b>Protocols</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/UART-purple?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/SPI-green?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/I2C-orange?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/CAN-blue?style=for-the-badge"/>
+    </td>
+  </tr>
 
-## 🔹 Operating Systems & Linux
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux%20System%20Programming-000000?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-003366?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+  <!-- Operating Systems -->
+  <tr>
+    <td><b>Operating Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    </td>
+  </tr>
 
-- OS scheduling concepts  
-- Processes & threads  
-- IPC, signals, sync primitives  
-- Makefiles, GCC toolchain  
-- ELF, linking, memory layout  
+  <!-- Version Control -->
+  <tr>
+    <td><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+  </tr>
 
-## 🔹 Communication Protocols
-<p align="left">
-  <img src="https://img.shields.io/badge/UART-0047AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SPI-7E57C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CAN-E65100?style=for-the-badge"/>
-</p>
+  <!-- Architectures -->
+  <tr>
+    <td><b>Architectures</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ARMv7-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ARMv8-green?style=for-the-badge"/>
+    </td>
+  </tr>
 
----
+  <!-- Controllers -->
+  <tr>
+    <td><b>Controllers</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino%20Series-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ARM%20Cortex%20M4-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ARM%20Cortex%20M7-green?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ARM%20Cortex%20A8-orange?style=for-the-badge"/>
+    </td>
+  </tr>
 
-# 🔧 Boards I Work With
-<p align="left">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+  <!-- FreeRTOS -->
+  <tr>
+    <td><b>FreeRTOS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tasks-red?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Queues-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ISR%20Handling-purple?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Mutex-orange?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Semaphores-green?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Threads-grey?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <!-- MIS -->
+  <tr>
+    <td><b>MIS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Bare%20Metal%20Programming-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Device%20Driver%20Development-green?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <!-- Development Platforms -->
+  <tr>
+    <td><b>Development Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keil%20uVision-00ADEF?style=for-the-badge"/>
+    </td>
+  </tr>
+
+</table>
 
 ---
 
@@ -104,6 +148,14 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/DasariKomal9985/DasariKomal9985/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -117,7 +169,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 - 📧 **Email:** komaldasarirao8599@gmail.com  
 - 🐙 **GitHub:** https://github.com/DasariKomal9985  
-- 🔗 **LinkedIn:** *(add here)*  
+- 🔗 **LinkedIn:** *(add link here)*  
 
 ---
 
