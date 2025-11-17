@@ -1,7 +1,8 @@
 <h1 align="center">EMBEDDED SOFTWARE & AI DEVELOPER</h1>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/DasariKomal9985/banner/main/embedded_banner.png](https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp)" width="100%" alt="Banner">
+<img src="https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp" width="100%" alt="Banner">
+
 </p>
 
 ---
