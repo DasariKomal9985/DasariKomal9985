@@ -1,8 +1,7 @@
 <h1 align="center">EMBEDDED SOFTWARE & AI DEVELOPER</h1>
 
 <p align="center">
-<img src="https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp" width="100%" alt="Banner">
-
+  <img src="https://dev.blues.io/_next/static/media/banner.31b60e7a.jpg" width="100%" alt="Banner">
 </p>
 
 ---
@@ -94,6 +93,15 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 ### 🔩 STM32 Makefile Toolchain
 - Build firmware **without CubeIDE**  
 - Custom linker script  
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp" width="100%" alt="Banner">
+
+</p>
 
 ---
 
