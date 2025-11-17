@@ -118,7 +118,8 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DasariKomal9985/DasariKomal9985/output/github-contribution-grid-snake-neon.svg" />
+ <img src="https://raw.githubusercontent.com/DasariKomal9985/DasariKomal9985/main/output/github-contribution-grid-snake-neon.svg" />
+
 </p>
 
 
