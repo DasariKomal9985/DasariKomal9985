@@ -148,14 +148,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/DasariKomal9985/DasariKomal9985/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
