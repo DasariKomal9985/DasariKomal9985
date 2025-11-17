@@ -1,7 +1,7 @@
 <h1 align="center">EMBEDDED SOFTWARE & AI DEVELOPER</h1>
 
 <p align="center">
-  <img src="YOUR_NEW_RAW_LINK_HERE" width="100%" alt="Banner">
+  <img src="https://dev.blues.io/_next/static/media/banner.31b60e7a.jpg" width="100%" alt="Banner">
 
 </p>
 
