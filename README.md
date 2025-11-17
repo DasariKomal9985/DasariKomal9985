@@ -17,7 +17,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20C-239120?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux%20C%20Programming-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Linux%20C%20Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Assembly-A8B400?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?style=for-the-badge"/>
 </p>
