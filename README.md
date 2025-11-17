@@ -118,7 +118,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ogurtemiz/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
