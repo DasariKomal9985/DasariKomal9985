@@ -99,8 +99,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 # 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp" width="100%" alt="Banner">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasariKomal9985&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
