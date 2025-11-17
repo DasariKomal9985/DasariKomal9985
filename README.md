@@ -116,9 +116,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 # 📈 GitHub Activity Graph
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasariKomal9985&custom_title=Activity%20Graph&animate=true&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/DasariKomal9985/DasariKomal9985/output/github-contribution-grid-snake-neon.svg" />
 </p>
+
 
 
 
