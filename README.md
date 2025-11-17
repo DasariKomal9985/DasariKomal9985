@@ -114,32 +114,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-# 🚀 Featured Projects
-
-### 🎧 AFSK Modulator & Demodulator (STM32)
-- DAC + DMA transmitter  
-- Goertzel decoder  
-- Custom audio-based data communication  
-
-### 🔌 Bare-Metal STM32 Drivers
-- GPIO, UART, SPI, I2C  
-- Register-level only (no HAL)  
-
-### ⚡ FreeRTOS Mini System
-- Tasks, queues, semaphores  
-- ISR-safe communication  
-
-### 📡 CAN Bus System
-- Filters  
-- ID masking  
-- Mailbox configuration  
-
-### 🔩 STM32 Makefile Toolchain
-- Build firmware **without CubeIDE**  
-- Custom linker script  
-
----
-
 # 📈 GitHub Activity Graph
 
 <p align="center">
