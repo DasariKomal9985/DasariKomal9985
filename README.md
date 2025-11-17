@@ -11,7 +11,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-# 📦 Technical Skill Matrix
+# 📦 Technical Skill
 
 <table>
   <tr>
