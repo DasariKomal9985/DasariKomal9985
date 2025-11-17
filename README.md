@@ -129,6 +129,13 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 </p>
 
 
+
+### 📅 2025 Contributions
+<p align="center">
+  <img src="https://ghchart.rshah.org/2025/DasariKomal9985" alt="2025 graph" />
+</p>
+
+
 ---
 
 # 📊 GitHub Stats
