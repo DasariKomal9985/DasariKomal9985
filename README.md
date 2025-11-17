@@ -123,15 +123,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
 
-### 📅 2023
-<p align="center">
-  <img src="https://ghchart.rshah.org/39FF14/DasariKomal9985" />
-</p>
-
-### 📅 2024
-<p align="center">
-  <img src="https://ghchart.rshah.org/00B2FF/DasariKomal9985" />
-</p>
 
 ### 📅 2025
 <p align="center">
