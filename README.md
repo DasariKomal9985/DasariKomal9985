@@ -1,7 +1,8 @@
 <h1 align="center">EMBEDDED SOFTWARE & AI DEVELOPER</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DasariKomal9985/banner/main/embedded_banner.png" width="100%" alt="Banner">
+  <img src="YOUR_NEW_RAW_LINK_HERE" width="100%" alt="Banner">
+
 </p>
 
 ---
