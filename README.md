@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://dev.blues.io/_next/static/media/banner.31b60e7a.jpg" width="100%" alt="Banner">
-
 </p>
 
 ---
@@ -94,6 +93,14 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 ### 🔩 STM32 Makefile Toolchain
 - Build firmware **without CubeIDE**  
 - Custom linker script  
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasariKomal9985&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
