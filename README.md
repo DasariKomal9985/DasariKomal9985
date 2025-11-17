@@ -136,11 +136,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C_Programming-90%25-blue?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Linux_System_Programming-85%25-yellow?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Linux-80%25-black?style=for-the-badge&logo=linux" /><br>
-  <img src="https://img.shields.io/badge/Embedded_C-90%25-green?style=for-the-badge" /><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/C_Programming-90%25-blue?style=for-the-badge" /><br><br>
+  <img src="https://img.shields.io/badge/Linux_System_Programming-85%25-yellow?style=for-the-badge" /><br><br>
+  <img src="https://img.shields.io/badge/Linux-80%25-black?style=for-the-badge&logo=linux" /><br><br>
+  <img src="https://img.shields.io/badge/Embedded_C-90%25-green?style=for-the-badge" /><br><br>
   <img src="https://img.shields.io/badge/DSA-75%25-purple?style=for-the-badge" />
 </p>
 
