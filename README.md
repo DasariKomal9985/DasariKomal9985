@@ -145,9 +145,25 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 # 📫 Contact
 
-- 📧 **Email:** komaldasarirao8599@gmail.com  
-- 🐙 **GitHub:** https://github.com/DasariKomal9985  
-- 🔗 **LinkedIn:** *(add link here)*  
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:komaldasarirao8499@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=12580&format=png&color=ffffff" width="60" alt="Email"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/DasariKomal9985">
+    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=ffffff" width="60" alt="GitHub"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dasari-komalrao-395b5a2ba/">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="60" alt="LinkedIn"/>
+  </a>
+
+</p>
+
 
 ---
 
