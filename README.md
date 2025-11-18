@@ -3,7 +3,7 @@
 <!-- =============================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Dasari's+GitHub;Embedded+Software+%26+AI+Developer;Technical+Skills;C+Programming;Embedded+C;Linux;Protocols" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Dasari's+GitHub;Embedded+Software+%26+AI+Developer;Technical+Skills;C+Programming;Embedded+C;Linux+System+Programming;Protocols+Like+I2C+UART+SPI+CAN" alt="Typing SVG" />
 </h1>
 
 
