@@ -3,8 +3,9 @@
 <!-- =============================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Dasari's+GitHub!;Embedded+Software+%26+AI+Developer;Firmware+Engineer+|+RTOS+|+Device+Drivers;Protocol+Stack+Developer+|+STM32+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=39FF14&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Dasari's+GitHub;Embedded+Software+%26+AI+Developer;Firmware+Engineer+|+FreeRTOS+|+Protocols;STM32+Developer+|+Device+Drivers" alt="Typing SVG" />
 </h1>
+
 
 <!-- Rainbow Divider -->
 <p align="center">
@@ -147,35 +148,48 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-# 🧩 EMDKOM — Skill Matrix
+# 🧩 EMDKOM
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge" />
+    </td>
 
-    <td align="center"><img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" /></td>
+  <td align="center">
+      <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" />
+    </td>
 
-    <td align="center"><img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" /></td>
+  <td align="center">
+      <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" />
+    </td>
 
-    <td align="center"><img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" /></td>
+  <td align="center">
+      <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" />
+    </td>
 
-    <td align="center"><img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" /></td>
+  <td align="center">
+      <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
+    </td>
   </tr>
 
   <!-- SUBTOPICS ONLY UNDER DSA -->
   <tr>
     <td></td>
-    <td align="center">
+
+  <td align="center">
       <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
     </td>
-    <td></td><td></td><td></td>
+
+  <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
----
 
 <!-- Rainbow Divider -->
 <p align="center">
