@@ -198,7 +198,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
 </p>
 
-# 📈 GitHub Activity Graph (Neon)
+# 📈 GitHub Activity Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasariKomal9985&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
@@ -213,7 +213,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-# 🐍 Neon Snake Eating Contributions  
+# Activity  
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
