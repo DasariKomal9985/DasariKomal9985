@@ -29,8 +29,10 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     <a href="https://github.com/DasariKomal9985/Controllers/tree/main/STM32" target="_blank">
   <img src="https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge"/>
     </a>
-    <img src="https://img.shields.io/badge/Linux%20System%20Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <a href="https://github.com/DasariKomal9985/Linux_System_Programs" target="_blank">
+  <img src="https://img.shields.io/badge/Linux%20System%20Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
+    </a>
+  <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   </td>
 </tr>
 
