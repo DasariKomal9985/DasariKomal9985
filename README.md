@@ -123,46 +123,51 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-# 🧩 EMDKOM
-
-<!-- MAIN ROW: WIDER BOXES WITH MORE SPACING -->
-<p align="left">
-
-  <!-- C Programming -->
-  <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge&labelWidth=220" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- DSA -->
-  <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge&labelWidth=220" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Embedded C -->
-  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge&labelWidth=220" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Linux System Programming -->
-  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge&labelWidth=220" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Protocols -->
-  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge&labelWidth=220" />
-
-</p>
-
-<br>
-
-<!-- DSA SUBTOPICS EXACTLY BELOW THE DSA BADGE -->
-<p align="left" style="margin-left: 330px;">
-
-  <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" /><br><br>
-  <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
-  <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
-  <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
-
-</p>
-
 ---
 
+# 🧩 EMDKOM
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge" />
+    </td>
+
+  <td align="center">
+      <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" />
+    </td>
+
+   <td align="center">
+      <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" />
+    </td>
+
+   <td align="center">
+      <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" />
+    </td>
+
+  <td align="center">
+      <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
+    </td>
+  </tr>
+
+ <!-- SUBTOPICS ROW UNDER DSA COLUMN -->
+  <tr>
+    <td></td>
+
+  <td align="center">
+      <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
+    </td>
+
+  <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
 
 ---
 
