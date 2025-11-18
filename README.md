@@ -196,6 +196,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
         <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" />
       </a>
       <br><br>
+      <a href="https://github.com/DasariKomal9985/Algorithms_C" target="_blank">
      <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
 
    </td>
