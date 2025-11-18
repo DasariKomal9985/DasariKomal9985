@@ -121,7 +121,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
-
 ---
 
 # 🧩 EMDKOM
@@ -130,22 +129,25 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
   <!-- Main Category Boxes -->
   <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge" />
+  
+  <!-- DSA + Subtopics -->
+  <br>
   <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
-
   <br><br>
-
-  <!-- DSA Sub Topics -->
-  <h3>📚 DSA Topics</h3>
-
   <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" /><br><br>
   <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
   <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
-  <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" /><br><br>
+
+  <!-- Remaining Main Boxes -->
+  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" /><br><br>
+  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" /><br><br>
+  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
 
 </p>
+
+---
+
 
 ---
 
