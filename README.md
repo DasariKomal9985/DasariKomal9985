@@ -181,7 +181,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
   <td align="center">
 
-    <!-- Single Linked List WITH LINK -->
   <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Single_Linked_List" target="_blank">
        <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" />
       </a>
