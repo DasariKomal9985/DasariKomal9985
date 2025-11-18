@@ -143,9 +143,8 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 </table>
 
-<!-- Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="70%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ---
