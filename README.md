@@ -123,27 +123,42 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
----
-
 # 🧩 EMDKOM
 
-<!-- MAIN ROW: BOXES SIDE BY SIDE -->
+<!-- MAIN ROW: WIDER BOXES WITH SPACING -->
 <p align="left">
-  <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
+
+  <!-- C Programming -->
+  <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge&labelWidth=200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- DSA -->
+  <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge&labelWidth=200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Embedded C -->
+  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge&labelWidth=200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Linux System Programming -->
+  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge&labelWidth=200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Protocols -->
+  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge&labelWidth=200" />
+
 </p>
 
 <br>
 
-<!-- DSA SUBTOPICS BELOW THE ROW -->
-<p align="left">
+<!-- DSA SUBTOPICS EXACTLY UNDER DSA -->
+<p align="left" style="margin-left: 220px;">
+
   <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" /><br><br>
   <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
   <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
   <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
+
 </p>
 
 ---
