@@ -159,7 +159,9 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     </td>
 
   <td align="center">
-      <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" />
+      <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures" target="_blank">
+        <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" />
+      </a>
     </td>
 
   <td align="center">
@@ -186,8 +188,14 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       </a>
       <br><br>
 
-  <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
-    <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
+  <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Double_Linked_List" target="_blank">
+        <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" />
+      </a>
+      <br><br>
+    <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Circular_Linked_List" target="_blank">
+        <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" />
+      </a>
+      <br><br>
      <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
 
    </td>
