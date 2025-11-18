@@ -129,23 +129,23 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 <p align="left">
 
   <!-- C Programming -->
-  <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge&labelWidth=200" />
+  <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge&labelWidth=500" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- DSA -->
-  <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge&labelWidth=200" />
+  <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge&labelWidth=500" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Embedded C -->
-  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge&labelWidth=200" />
+  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge&labelWidth=500" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Linux System Programming -->
-  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge&labelWidth=200" />
+  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge&labelWidth=500" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Protocols -->
-  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge&labelWidth=200" />
+  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge&labelWidth=500" />
 
 </p>
 
