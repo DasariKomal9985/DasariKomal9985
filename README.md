@@ -197,6 +197,13 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://img.shields.io/badge/DSA-75%25-purple?style=for-the-badge" />
 </p>
 
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasariKomal9985&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
+</p>
 
 
 ---
