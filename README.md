@@ -180,17 +180,25 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     <td></td>
 
   <td align="center">
-      <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
-    </td>
+
+    <!-- Single Linked List WITH LINK -->
+  <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Single_Linked_List" target="_blank">
+       <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" />
+      </a>
+      <br><br>
+
+  <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" /><br><br>
+    <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" /><br><br>
+     <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
+
+   </td>
 
   <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
+
 
 
 <!-- Rainbow Divider -->
