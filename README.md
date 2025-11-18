@@ -29,12 +29,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="85%">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 👋 Hi, I'm Komal  
 I'm an Embedded Software & AI Developer passionate about building **low-level firmware**, **real-time systems**, **device drivers**, **protocol stacks**, and **edge AI models** on microcontrollers like **STM32, ESP32, and Arduino**.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 # 📦 Technical Skill
 
@@ -147,7 +151,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
----
 
 # 🧩 EMDKOM
 
@@ -203,21 +206,38 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasariKomal9985&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ### 📅 2025 Activity  
 <p align="center">
   <img src="https://ghchart.rshah.org/39FF14/DasariKomal9985" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 # Activity  
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
 
 # 📊 Skill Proficiency
 
@@ -242,7 +262,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://img.shields.io/badge/DSA-75%25-purple?style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
 
 # 🛠️ Tech Stack (Icons)
 <p align="center">
@@ -269,7 +293,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
 
 <p align="center">
   ⭐ If my work interests you, feel free to star my repositories!
