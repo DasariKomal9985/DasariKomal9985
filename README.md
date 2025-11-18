@@ -121,9 +121,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 ---
 
----
-
----
 
 # 🧩 EMDKOM
 
@@ -166,8 +163,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     <td></td>
   </tr>
 </table>
-
----
 
 ---
 
