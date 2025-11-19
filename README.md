@@ -177,36 +177,70 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     </td>
   </tr>
 
-  <!-- SUBTOPICS ROW -->
   <tr>
-    <td></td>
 
-   <!-- DSA SUBTOPICS -->
   <td align="center">
+      <img src="https://img.shields.io/badge/Arrays-1976D2?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Pointers-00897B?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Bitwise_Operators-F57C00?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Structures-7E57C2?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Unions-5E35B1?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Strings-0288D1?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/File_Operations-6D4C41?style=for-the-badge" />
+    </td>
 
-  <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Single_Linked_List" target="_blank">
+  <td align="center">
+      <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Single_Linked_List" target="_blank">
         <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" />
-      </a>
-      <br><br>
+      </a><br><br>
 
   <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Double_Linked_List" target="_blank">
         <img src="https://img.shields.io/badge/Double_Linked_List-0066FF?style=for-the-badge" />
-      </a>
-      <br><br>
+      </a><br><br>
 
   <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Circular_Linked_List" target="_blank">
         <img src="https://img.shields.io/badge/Circular_Linked_List-FF8800?style=for-the-badge" />
-      </a>
-      <br><br>
+      </a><br><br>
 
   <a href="https://github.com/DasariKomal9985/Algorithms_C" target="_blank">
         <img src="https://img.shields.io/badge/Algorithms-8E24AA?style=for-the-badge" />
       </a>
+    </td>
 
-  </td>
+  <td align="center">
+      <img src="https://img.shields.io/badge/GPIO-1976D2?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/ADC-FF5722?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Timers-8E24AA?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Controllers-43A047?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Interrupts-FF9800?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Cortex_M4-283593?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Architectures-0097A7?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Device_Drivers-33691E?style=for-the-badge" />
+    </td>
 
- 
-  <td></td>
+  <td align="center">
+      <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Directory_Management-9C27B0?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Device_Management-4CAF50?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Memory_Management-FBC02D?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Communication_Management-03A9F4?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io-badge/Time_Management-FF9800?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Group_Management-009688?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Network_Management-E91E63?style=for-the-badge" />
+    </td>
+
+  <td align="center">
+      <img src="https://img.shields.io/badge/UART-1E88E5?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/I2C-43A047?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/CAN-8E24AA?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/SPI-F57C00?style=for-the-badge" />
+    </td>
+
+  </tr>
+
+</table>
+
 
   <td align="center">
 
