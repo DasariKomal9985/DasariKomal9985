@@ -277,7 +277,66 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux" width="55"/> <img src="https://skillicons.dev/icons?i=stmicroelectronics" width="55"/> <img src="https://skillicons.dev/icons?i=arduino" width="55"/> <img src="https://skillicons.dev/icons?i=raspberrypi" width="55"/> <img src="https://skillicons.dev/icons?i=vscode" width="55"/> <img src="https://skillicons.dev/icons?i=github" width="55"/> <img src="https://img.icons8.com/ios-filled/100/microchip.png" width="55"/> <img src="https://img.icons8.com/ios-filled/100/settings.png" width="55"/> <img src="https://img.icons8.com/ios-filled/100/source-code.png" width="55"/> <img src="https://img.icons8.com/ios-filled/100/console.png" width="55"/> <img src="https://img.icons8.com/ios-filled/100/usb-connector.png" width="55"/> <img src="https://img.icons8.com/ios-filled/100/monitor.png" width="55"/> <img src="https://img.icons8.com/ios-filled/100/toolbox.png" width="55"/> <img src="https://img.icons8.com/color/96/printed-circuit-board.png" width="55"/> <img src="https://img.icons8.com/color/96/circuit.png" width="55"/> <img src="https://img.icons8.com/color/96/flow-chart.png" width="55"/> </p>
+# 🛠️ Tech Stack (Icons)
+
+<p align="center">
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+
+  <!-- STM32 (STMicroelectronics) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stmicroelectronics/stmicroelectronics-original.svg" width="55"/>
+
+  <!-- ESP32 -->
+  <img src="https://raw.githubusercontent.com/hotrhino/esp32-icons/main/esp32-logo.svg" width="55"/>
+
+  <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
+
+  <!-- Raspberry Pi -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+
+  <!-- STM32CubeIDE -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/stm32cubeide.svg" width="55"/>
+
+  <!-- Keil uVision -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/keil.svg" width="55"/>
+
+  <!-- TeraTerm -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/teraterm.svg" width="55"/>
+
+  <!-- ST-Link Debugger -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/stlink.svg" width="55"/>
+
+  <!-- Docklight -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/docklight.svg" width="55"/>
+
+  <!-- STM32 ST-Link Utility -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/stlinkutility.svg" width="55"/>
+
+  <!-- STM32 Programmer -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/stm32programmer.svg" width="55"/>
+
+  <!-- U-Blox -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/ublox.svg" width="55"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+
+  <!-- EasyEDA -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/easyeda.svg" width="55"/>
+
+  <!-- Altium Designer -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altiumdesigner/altiumdesigner-original.svg" width="55"/>
+
+  <!-- STM32CubeMX -->
+  <img src="https://raw.githubusercontent.com/LPV-15/Icons/main/cubemx.svg" width="55"/>
+
+</p>
+
 
 ---
 
