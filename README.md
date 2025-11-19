@@ -179,7 +179,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
   <tr>
 
-    <!-- C Programming topics -->
+
   <td align="center">
       <img src="https://img.shields.io/badge/Arrays-1976D2?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Pointers-00897B?style=for-the-badge" /><br><br>
@@ -190,7 +190,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       <img src="https://img.shields.io/badge/File_Operations-6D4C41?style=for-the-badge" />
     </td>
 
-    <!-- DSA topics -->
+
   <td align="center">
       <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Single_Linked_List" target="_blank">
         <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" />
@@ -209,7 +209,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       </a>
     </td>
 
-    <!-- Embedded C topics -->
+
   <td align="center">
       <img src="https://img.shields.io/badge/GPIO-1976D2?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/ADC-FF5722?style=for-the-badge" /><br><br>
@@ -221,7 +221,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       <img src="https://img.shields.io/badge/Device_Drivers-33691E?style=for-the-badge" />
     </td>
 
-    <!-- Linux System Programming topics -->
+
   <td align="center">
       <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" /><br><br>
@@ -234,7 +234,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       <img src="https://img.shields.io/badge/Network_Management-E91E63?style=for-the-badge" />
     </td>
 
-    <!-- Protocols topics -->
+
   <td align="center">
       <img src="https://img.shields.io/badge/UART-1E88E5?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/I2C-43A047?style=for-the-badge" /><br><br>
