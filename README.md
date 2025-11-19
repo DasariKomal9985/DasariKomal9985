@@ -220,9 +220,9 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       <img src="https://img.shields.io/badge/Group_Management-009688?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Network_Management-E91E63?style=for-the-badge" />
 
-    </td>
+  </td>
 
-    <td></td>
+  <td></td>
   </tr>
 </table>
 
