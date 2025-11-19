@@ -177,37 +177,54 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     </td>
   </tr>
 
-  <!-- SUBTOPICS ONLY UNDER DSA -->
+  <!-- SUBTOPICS ROW -->
   <tr>
     <td></td>
 
+   <!-- DSA SUBTOPICS -->
   <td align="center">
 
   <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Single_Linked_List" target="_blank">
-       <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" />
       </a>
       <br><br>
 
   <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Double_Linked_List" target="_blank">
-        <img src="https://img.shields.io/badge/Double_Linked_List-34A853?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Double_Linked_List-0066FF?style=for-the-badge" />
       </a>
       <br><br>
-    <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Circular_Linked_List" target="_blank">
-        <img src="https://img.shields.io/badge/Circular_Linked_List-34A853?style=for-the-badge" />
+
+  <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Circular_Linked_List" target="_blank">
+        <img src="https://img.shields.io/badge/Circular_Linked_List-FF8800?style=for-the-badge" />
       </a>
       <br><br>
-      <a href="https://github.com/DasariKomal9985/Algorithms_C" target="_blank">
-     <img src="https://img.shields.io/badge/Algorithms-34A853?style=for-the-badge" />
 
-   </td>
+  <a href="https://github.com/DasariKomal9985/Algorithms_C" target="_blank">
+        <img src="https://img.shields.io/badge/Algorithms-8E24AA?style=for-the-badge" />
+      </a>
 
+  </td>
+
+ 
   <td></td>
-    <td></td>
+
+  <td align="center">
+
+  <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Directory_Management-9C27B0?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Device_Management-4CAF50?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Memory_Management-FBC02D?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Communication_Management-03A9F4?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Time_Management-FF9800?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Group_Management-009688?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Network_Management-E91E63?style=for-the-badge" />
+
+    </td>
+
     <td></td>
   </tr>
 </table>
-
-
 
 <!-- Rainbow Divider -->
 <p align="center">
