@@ -59,7 +59,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     <a href="https://github.com/DasariKomal9985/Linux_System_Programs" target="_blank">
     </a>
     <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    
+     </a>
   </td>
 </tr>
 
