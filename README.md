@@ -181,9 +181,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     </td>
 
   <td align="center">
-      <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" />
-    <img src="https://github.com/DasariKomal9985/Linux_System_Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
-    </td>
+              <a href="https://github.com/DasariKomal9985/Linux_System_Programming" target="_blank">
+  <img src="https://img.shields.io/badge/Linux_System_Programming-FFD700?style=for-the-badge" />
+</a>
+
+  </td>
 
   <td align="center">
       <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
