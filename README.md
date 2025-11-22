@@ -182,10 +182,10 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
   <td align="center">
       <img src="https://img.shields.io/badge/Arrays-1976D2?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Pointers-00897B?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Bitwise_Operators-F57C00?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Structures-7E57C2?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Strings-0288D1?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Pointers-00897B?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Bitwise_Operators-F57C00?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Structures-7E57C2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Strings-0288D1?style=for-the-badge" /><br>
       <img src="https://img.shields.io/badge/File_Operations-6D4C41?style=for-the-badge" />
     </td>
 
@@ -210,27 +210,27 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
   <td align="center">
-      <img src="https://img.shields.io/badge/ADC-FF5722?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Timers-8E24AA?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Controllers-43A047?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Interrupts-FF9800?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/ADC-FF5722?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Timers-8E24AA?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Controllers-43A047?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Interrupts-FF9800?style=for-the-badge" /><br>
       <img src="https://img.shields.io/badge/Device_Drivers-33691E?style=for-the-badge" />
     </td>
 
 
   <td align="center">
-      <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Device_Management-4CAF50?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Memory_Management-FBC02D?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Communication_Management-03A9F4?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Device_Management-4CAF50?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Memory_Management-FBC02D?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Communication_Management-03A9F4?style=for-the-badge" /><br>
     </td>
 
 
   <td align="center">
-      <img src="https://img.shields.io/badge/UART-1E88E5?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/I2C-43A047?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/CAN-8E24AA?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/UART-1E88E5?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/I2C-43A047?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/CAN-8E24AA?style=for-the-badge" /><br>
       <img src="https://img.shields.io/badge/SPI-F57C00?style=for-the-badge" />
     </td>
 
