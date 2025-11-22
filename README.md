@@ -391,19 +391,31 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 <p align="center">
 
   <!-- Linux -->
+<!-- Linux -->
+<a href="https://ubuntu.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
+</a>
 
-  <!-- Arduino -->
+<!-- Arduino -->
+<a href="https://www.arduino.cc/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60"/>
+</a>
 
-  <!-- Raspberry Pi -->
+<!-- Raspberry Pi -->
+<a href="https://www.raspberrypi.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60"/>
+</a>
 
-  <!-- VS Code -->
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
+</a>
 
-  <!-- Git -->
+<!-- Git -->
+<a href="https://github.com/DasariKomal9985" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+</a>
+
 
 </p>
 
