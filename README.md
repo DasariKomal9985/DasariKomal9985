@@ -50,6 +50,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 <tr>
   <td><b>Programming Languages</b></td>
   <td>
+
   <a href="https://github.com/DasariKomal9985/C_Programming" target="_blank">
       <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"/>
     </a>
@@ -58,14 +59,17 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       <img src="https://img.shields.io/badge/Embedded%20C-green?style=for-the-badge"/>
     </a>
 
-  <a href="https://github.com/DasariKomal9985/Linux_System_Programs" target="_blank">
+  <a href="https://github.com/DasariKomal9985/Linux_System_Programming" target="_blank">
       <img src="https://img.shields.io/badge/Linux%20System%20Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
     </a>
 
-  <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <a href="https://github.com/DasariKomal9985/Linux_System_Programming" target="_blank">
+      <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    </a>
 
   </td>
 </tr>
+
 
 
   <!-- Protocols -->
