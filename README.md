@@ -87,8 +87,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+      <a href="https://github.com/DasariKomal9985/Linux_System_Programming" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+</a>
+
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     </td>
   </tr>
 
