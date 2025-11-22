@@ -193,15 +193,15 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <td align="center">
       <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Single_Linked_List" target="_blank">
         <img src="https://img.shields.io/badge/Single_Linked_List-34A853?style=for-the-badge" />
-      </a><br><br>
+      </a><br>
 
   <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Double_Linked_List" target="_blank">
         <img src="https://img.shields.io/badge/Double_Linked_List-0066FF?style=for-the-badge" />
-      </a><br><br>
+      </a><br>
 
   <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures/Circular_Linked_List" target="_blank">
         <img src="https://img.shields.io/badge/Circular_Linked_List-FF8800?style=for-the-badge" />
-      </a><br><br>
+      </a><br>
 
   <a href="https://github.com/DasariKomal9985/Algorithms_C" target="_blank">
         <img src="https://img.shields.io/badge/Algorithms-8E24AA?style=for-the-badge" />
