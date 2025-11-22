@@ -119,9 +119,13 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <tr>
     <td><b>Controllers</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Arduino%20Series-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+        <a href="https://github.com/DasariKomal9985/Controllers/tree/main/Ardiuno" target="_blank">
+  <img src="https://img.shields.io/badge/Arduino%20Series-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</a>
       <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ARM%20Cortex%20M4-blue?style=for-the-badge"/>
+     <a href="https://github.com/DasariKomal9985/Controllers/tree/main/STM32" target="_blank">
+  <img src="https://img.shields.io/badge/ARM%20Cortex%20M4-blue?style=for-the-badge"/>
+</a>
       <img src="https://img.shields.io/badge/ARM%20Cortex%20M7-green?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/ARM%20Cortex%20A8-orange?style=for-the-badge"/>
     </td>
