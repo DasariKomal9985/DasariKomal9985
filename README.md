@@ -211,13 +211,10 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
   <td align="center">
-      <img src="https://img.shields.io/badge/GPIO-1976D2?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/ADC-FF5722?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Timers-8E24AA?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Controllers-43A047?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Interrupts-FF9800?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Cortex_M4-283593?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Architectures-0097A7?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Device_Drivers-33691E?style=for-the-badge" />
     </td>
 
@@ -225,13 +222,9 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <td align="center">
       <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Directory_Management-9C27B0?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Device_Management-4CAF50?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Memory_Management-FBC02D?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Communication_Management-03A9F4?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Time_Management-FF9800?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Group_Management-009688?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Network_Management-E91E63?style=for-the-badge" />
     </td>
 
 
