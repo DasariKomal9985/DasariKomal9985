@@ -237,12 +237,27 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
   <td align="center">
-      <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Device_Management-4CAF50?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Memory_Management-FBC02D?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Communication_Management-03A9F4?style=for-the-badge" /><br>
-    </td>
+<a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/Process_Management" target="_blank">
+  <img src="https://img.shields.io/badge/Process_Management-FF5733?style=for-the-badge" />
+</a><br>
+
+<a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/File_Management" target="_blank">
+  <img src="https://img.shields.io/badge/File_Management-4287F5?style=for-the-badge" />
+</a><br>
+
+<a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/Device_Management" target="_blank">
+  <img src="https://img.shields.io/badge/Device_Management-4CAF50?style=for-the-badge" />
+</a><br>
+
+<a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/Memory_Management" target="_blank">
+  <img src="https://img.shields.io/badge/Memory_Management-FBC02D?style=for-the-badge" />
+</a><br>
+
+<a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/Communication_Management" target="_blank">
+  <img src="https://img.shields.io/badge/Communication_Management-03A9F4?style=for-the-badge" />
+</a><br>
+
+  </td>
 
 
   <td align="center">
