@@ -60,7 +60,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       <img src="https://github.com/DasariKomal9985/Linux_System_Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
     </a>
     <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img src="https://github.com/DasariKomal9985/Linux_System_Programming-FFD700?style=for-the-badge&logo=linux&logoColor=black"/>
+    
   </td>
 </tr>
 
