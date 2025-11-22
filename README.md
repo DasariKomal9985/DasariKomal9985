@@ -193,8 +193,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge" />
-    </td>
+     <a href="https://github.com/DasariKomal9985/C_Programming" target="_blank">
+  <img src="https://img.shields.io/badge/C_Programming-blue?style=for-the-badge" />
+</a>
+
+  </td>
 
   <td align="center">
       <a href="https://github.com/DasariKomal9985/C_Programming/tree/main/Data_Structures" target="_blank">
@@ -203,8 +206,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
     </td>
 
   <td align="center">
-      <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" />
-    </td>
+      <a href="https://github.com/DasariKomal9985/Controllers" target="_blank">
+  <img src="https://img.shields.io/badge/Embedded_C-orange?style=for-the-badge" />
+</a>
+
+  </td>
 
   <td align="center">
               <a href="https://github.com/DasariKomal9985/Linux_System_Programming" target="_blank">
