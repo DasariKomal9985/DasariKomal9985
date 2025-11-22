@@ -181,11 +181,10 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
   <td align="center">
-      <img src="https://img.shields.io/badge/Arrays-1976D2?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Arrays-1976D2?style=for-the-badge" /><br>
       <img src="https://img.shields.io/badge/Pointers-00897B?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Bitwise_Operators-F57C00?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Structures-7E57C2?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Unions-5E35B1?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/Strings-0288D1?style=for-the-badge" /><br><br>
       <img src="https://img.shields.io/badge/File_Operations-6D4C41?style=for-the-badge" />
     </td>
