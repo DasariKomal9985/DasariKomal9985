@@ -134,10 +134,19 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
       <img src="https://img.shields.io/badge/Tasks-red?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Queues-blue?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/ISR%20Handling-purple?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Mutex-orange?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Semaphores-green?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Threads-grey?style=for-the-badge"/>
-    </td>
+     <a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/Process_Management/mutex" target="_blank">
+  <img src="https://img.shields.io/badge/Mutex-orange?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/Process_Management/semaphore" target="_blank">
+  <img src="https://img.shields.io/badge/Semaphores-green?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/DasariKomal9985/Linux_System_Programming/tree/main/Process_Management/Thread" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-grey?style=for-the-badge" />
+</a>
+
+   </td>
   </tr>
 
   <!-- MIS -->
