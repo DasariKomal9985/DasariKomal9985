@@ -220,8 +220,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   </td>
 
   <td align="center">
-      <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
-    </td>
+      <a href="https://github.com/DasariKomal9985/Controllers" target="_blank">
+  <img src="https://img.shields.io/badge/Protocols-purple?style=for-the-badge" />
+</a>
+
+  </td>
   </tr>
 
   <tr>
