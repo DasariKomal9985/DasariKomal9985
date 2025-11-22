@@ -99,8 +99,11 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <tr>
     <td><b>Version Control</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
+      <a href="https://github.com/DasariKomal9985" target="_blank">
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+  </td>
   </tr>
 
   <!-- Architectures -->
