@@ -21,7 +21,15 @@
 <h1 align="center">EMBEDDED SOFTWARE & AI DEVELOPER</h1>
 
 <p align="center">
-  <img src="https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp" width="100%" alt="Banner">
+  <img src="https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp"
+       width="100%" 
+       alt="Banner">
+</p>
+
+<p align="center">
+  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD...FULL_BASE64_HERE..." 
+       width="100%"
+       alt="Embedded System Board">
 </p>
 
 <!-- Neon Green Divider -->
