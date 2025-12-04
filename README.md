@@ -27,10 +27,9 @@
 </p>
 
 <p align="center">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD...FULL_BASE64_HERE..." 
-       width="100%"
-       alt="Embedded System Board">
+  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ..." width="100%" alt="Embedded System Board">
 </p>
+
 
 <!-- Neon Green Divider -->
 
