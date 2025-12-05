@@ -26,9 +26,6 @@
        alt="Banner">
 </p>
 
-<p align="center">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ..." width="100%" alt="Embedded System Board">
-</p>
 
 
 <!-- Neon Green Divider -->
