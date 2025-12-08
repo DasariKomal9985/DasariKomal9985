@@ -350,10 +350,16 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-# Activity  
+# Activity   
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/examples/pacman.svg"
+    width="100%"
+    alt="Pac-Man animation"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
