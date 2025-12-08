@@ -354,11 +354,12 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/examples/pacman.svg"
-    width="100%"
+    src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"
+    width="60%"
     alt="Pac-Man animation"
   />
 </p>
+
 
 
 <p align="center">
