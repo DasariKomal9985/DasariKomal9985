@@ -353,12 +353,16 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 # Activity   
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"
-    width="60%"
-    alt="Pac-Man animation"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DasariKomal9985/DasariKomal9985/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DasariKomal9985/DasariKomal9985/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/DasariKomal9985/DasariKomal9985/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
+
 
 
 
