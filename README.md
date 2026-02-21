@@ -19,9 +19,9 @@
 <h1 align="center">EMBEDDED SOFTWARE & AI DEVELOPER</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DasariKomal9985/Linux_System_Programming/main/Test/PeopleTech.png"
+  <img src="https://raw.githubusercontent.com/DasariKomal9985/Linux_System_Programming/main/Test/crop.png"
        width="100%"
-       alt="PeopleTech Banner">
+       alt="Banner">
 </p>
 
 
