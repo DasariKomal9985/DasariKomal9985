@@ -2,11 +2,7 @@
 <!--   🌟 ANIMATED WELCOME HEADER (Left → Right)      -->
 <!-- =============================================== -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DasariKomal9985/Linux_System_Programming/main/Test/PeopleTech.png"
-       width="100%"
-       alt="PeopleTech Banner">
-</p>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Dasari's+GitHub;Embedded+Software+%26+AI+Developer;Technical+Skills;C+Programming;Embedded+C;Linux+System+Programming;Protocols+Like+I2C+UART+SPI+CAN" alt="Typing SVG" /> </h1>
 
 
 
@@ -23,9 +19,9 @@
 <h1 align="center">EMBEDDED SOFTWARE & AI DEVELOPER</h1>
 
 <p align="center">
-  <img src="https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp"
-       width="100%" 
-       alt="Banner">
+  <img src="https://raw.githubusercontent.com/DasariKomal9985/Linux_System_Programming/main/Test/PeopleTech.png"
+       width="100%"
+       alt="PeopleTech Banner">
 </p>
 
 
