@@ -177,8 +177,8 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 </a>
 
- <a href="https://github.com/DasariKomal9985/Device_Driver_Development/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/Keil%20uVision-00ADEF?style=for-the-badge" />
+<a href="https://github.com/DasariKomal9985/Device_Driver_Development" target="_blank">
+  <img src="https://img.shields.io/badge/Device%20Driver%20Development-0A66C2?style=for-the-badge" />
 </a>
     </td>
   </tr>
