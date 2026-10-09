@@ -55,6 +55,10 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
   <a href="https://github.com/DasariKomal9985/C_Programming" target="_blank">
       <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logoColor=white"/>
+
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </a>
 
   <a href="https://github.com/DasariKomal9985/Controllers/tree/main/STM32" target="_blank">
@@ -178,7 +182,7 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 </a>
 
 <a href="https://github.com/DasariKomal9985/Device_Driver_Development" target="_blank">
-  <img src="https://img.shields.io/badge/Device%20Driver%20Development-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux%20Device%20Drivers-0A66C2?style=for-the-badge" />
 </a>
     </td>
   </tr>
@@ -318,4 +322,3 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 <p align="center">
   ⭐ If my work interests you, feel free to star my repositories!
 </p>
-
