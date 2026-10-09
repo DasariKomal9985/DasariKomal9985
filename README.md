@@ -212,11 +212,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
 </a>
 
-<!-- Arduino -->
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60"/>
-</a>
-
 <!-- Raspberry Pi -->
 <a href="https://www.raspberrypi.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60"/>
