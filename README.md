@@ -1,11 +1,3 @@
-<!-- =============================================== -->
-<!--   🌟 ANIMATED WELCOME HEADER (Left → Right)      -->
-<!-- =============================================== -->
-
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+Dasari's+GitHub;Embedded+Software+%26+AI+Developer;Technical+Skills;C+Programming;Embedded+C;Linux+System+Programming;Protocols+Like+I2C+UART+SPI+CAN" alt="Typing SVG" /> </h1>
-
-
-
 
 <!-- Rainbow Divider -->
 <p align="center">
@@ -123,10 +115,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   <tr>
     <td><b>Controllers</b></td>
     <td>
-        <a href="https://github.com/DasariKomal9985/Controllers/tree/main/Ardiuno" target="_blank">
-  <img src="https://img.shields.io/badge/Arduino%20Series-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</a>
-      <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
      <a href="https://github.com/DasariKomal9985/Controllers/tree/main/STM32" target="_blank">
   <img src="https://img.shields.io/badge/ARM%20Cortex%20M4-blue?style=for-the-badge"/>
 </a>
@@ -194,19 +182,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
 
 
 
-# 📈 GitHub Activity Graph 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasariKomal9985&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-
 # Activity   
 
 <p align="center">
@@ -220,35 +195,6 @@ I'm an Embedded Software & AI Developer passionate about building **low-level fi
   </picture>
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-
-
-# 📊 Skill Proficiency
-
-<p align="left">
-  <a href="https://github.com/DasariKomal9985/C_Programming">
-    <img src="https://img.shields.io/badge/C_Programming-90%25-blue?style=for-the-badge" />
-  </a>
-  <br><br>
-
-  <a href="https://github.com/DasariKomal9985/Linux_System_Programs">
-    <img src="https://img.shields.io/badge/Linux_System_Programming-85%25-yellow?style=for-the-badge" />
-  </a>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Linux-80%25-black?style=for-the-badge&logo=linux" /><br><br>
-
-  <a href="https://github.com/DasariKomal9985/Controllers/tree/main/STM32">
-    <img src="https://img.shields.io/badge/Embedded_C-90%25-green?style=for-the-badge" />
-  </a>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/DSA-75%25-purple?style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
