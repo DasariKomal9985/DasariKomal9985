@@ -26,7 +26,7 @@
 </p>
 
 ## 👋 Hi, I'm Komal  
-I'm an Embedded Software & AI Developer passionate about building **low-level firmware**, **real-time systems**, **device drivers**, **protocol stacks**, and **edge AI models** on microcontrollers like **STM32, ESP32, and Arduino**.
+I'm an Embedded Software & AI Developer passionate about building **low-level firmware**, **real-time systems**, **device drivers**, **protocol stacks**, and **edge AI models** on microcontrollers like **ARM Cortex M4 Series**.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
